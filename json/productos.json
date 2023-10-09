@@ -1,0 +1,33 @@
+[{
+        "id": 1,
+        "nombre": "Plato de Madera",
+        "precio": 2100,
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_935124-MLA32697011146_102019-O.webp"
+    }, {
+        "id": 2,
+        "nombre": "Cuenco de Madera",
+        "precio": 1600,
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_862387-MLA44914862857_022021-O.webp"
+    }, {
+        "id": 3,
+        "nombre": "Tabla de Amasado de Madera",
+        "precio": 4500,
+        "foto": "https://raizmaderapura.com/wp-content/uploads/2022/05/genoa.jpg"
+    }, {
+        "id": 4,
+        "nombre": "Baldosa de Madera",
+        "precio": 2200,
+        "foto": "https://raizmaderapura.com/wp-content/uploads/2022/02/tamano-35x35-sin-barniz-2.png"
+    }, {
+        "id": 5,
+        "nombre": "Tabla de Madera",
+        "precio": 3500,
+        "foto": "https://raizmaderapura.com/wp-content/uploads/2020/10/probar.jpg"
+    }, {
+        "id": 6,
+        "nombre": "Cerco de Madera",
+        "precio": 4700,
+        "foto": "https://raizmaderapura.com/wp-content/uploads/2023/03/IMG_8710a-scaled.jpg"
+    }
+]
+
